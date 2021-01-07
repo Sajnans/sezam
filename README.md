@@ -1,1 +1,1 @@
-# sezam
+# Cwiczenia GIT'a
